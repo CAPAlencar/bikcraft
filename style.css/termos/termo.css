@@ -1,0 +1,17 @@
+.termo {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.termo h2 {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.termo p + h2 {
+    margin-top: 40px;  /*p + h2 so o elenmento h2 q estiver depois do p q e afetado*/
+}
+.termo p {
+    max-width: 75ch;
+    margin-bottom: 24px;
+}
