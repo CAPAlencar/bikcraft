@@ -23,6 +23,7 @@ a{
 
 img{
     max-width: 100%;
+    height: auto;
     display: block;
 }
 img[src$=".jpg"] {    /*a tag [src$=]faz com que os atributos sejam add somento em elementos terminados em ".jpeg"*/
