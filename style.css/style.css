@@ -35,8 +35,8 @@
 @import 'contato/lojas.css';
 
 
-/*termcontatog*/
-@import 'termos/tlojass';
+/*termo contato*/
+
 @import 'termos/termo.css';
 
 /*bicicletas pag*/
@@ -45,3 +45,6 @@
 
 /*orcamento*/
 @import 'orcamento/orcamento.css';
+
+/* animacao */
+@import 'utilidades/animacao.css';
